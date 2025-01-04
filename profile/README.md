@@ -5,6 +5,7 @@ Mindful Metrics is a forward-thinking software consulting company specializing i
 - **Data Science**: Transforming raw data into actionable insights.
 - **Artificial Intelligence**: Developing intelligent systems to solve complex problems.
 - **Predictive Business Logic**: Creating advanced algorithms to forecast trends and optimize decision-making.
+- **Business Applications**: Developing custom business solutions.
 
 At Mindful Metrics, we harness cutting-edge technology to empower businesses with scalable, data-driven solutions. We are passionate about delivering measurable outcomes and fostering meaningful impact for our clients.
 
