@@ -48,7 +48,7 @@ Here are a few ways we've made a difference:
 ## 💡 Join Us
 
 ### Open Positions
-We are always looking for passionate and talented individuals to join our team. Check out our [Careers Page](#) for the latest opportunities.
+We are always looking for passionate and talented individuals to join our team. 
 
 ### Internships
 Kickstart your career in tech with hands-on experience at Mindful Metrics. Apply for an internship and learn from the best in the industry.
