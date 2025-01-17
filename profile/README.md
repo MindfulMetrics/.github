@@ -61,8 +61,8 @@ Kickstart your career in tech with hands-on experience at Mindful Metrics. Apply
 Whether you are a potential client seeking innovative solutions or a talented individual looking to make an impact, we would love to hear from you.
 
 ### Contact Us
-- 📧 Email: [info@mindfulmetrics.com](mailto:info@mindfulmetrics.com)
-- 🌐 Website: [www.mindfulmetrics.com](https://www.mindfulmetrics.com)
+- 📧 Email: [info@mindfulmetrics.cc](mailto:info@mindfulmetrics.cc)
+- 🌐 Website: [www.mindfulmetrics.cc](https://www.mindfulmetrics.cc)
 - 📺 YouTube: [@mindfulmetrics101](https://www.youtube.com/@mindfulmetrics101)
 - 📘 LinkedIn: [Mindful Metrics](https://www.linkedin.com/company/mindful-metrics/)
 
