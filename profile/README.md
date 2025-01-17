@@ -62,7 +62,7 @@ Whether you are a potential client seeking innovative solutions or a talented in
 
 ### Contact Us
 - 📧 Email: [info@mindfulmetrics.cc](mailto:info@mindfulmetrics.cc)
-- 🌐 Website: [www.mindfulmetrics.cc](https://www.mindfulmetrics.cc)
+- 🌐 Website: [https://mindfulmetrics.cc](https://mindfulmetrics.cc)
 - 📺 YouTube: [@mindfulmetrics101](https://www.youtube.com/@mindfulmetrics101)
 - 📘 LinkedIn: [Mindful Metrics](https://www.linkedin.com/company/mindful-metrics/)
 
